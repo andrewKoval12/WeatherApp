@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="city_name">Введіть назву або індекс міста</string>
+    <string name="button_show_weather">Найти</string>
+</resources>
